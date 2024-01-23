@@ -1,0 +1,28 @@
+{
+  "name": "electron-jue-jin",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "^2.4.1",
+    "element-ui": "^2.15.14",
+    "vue-json-excel": "^0.3.0",
+    "vue3-json-excel": "^1.0.10-alpha"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "babel-plugin-component": "^1.1.1",
+    "electron": "^26.2.1",
+    "sass": "^1.67.0",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5",
+    "vite-plugin-optimizer": "^1.4.2",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4",
+    "vue-tsc": "^1.8.5"
+  }
+}
